@@ -3,6 +3,6 @@
 
 * test
 #+BEGIN_EXAMPLE
-#+BEGIN_SRC
+.#+BEGIN_SRC
 #+END_SRC
 #+END_EXAMPLE
