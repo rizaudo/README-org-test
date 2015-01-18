@@ -4,6 +4,11 @@
 * test
 GitHub flavoredを殺せ
 #+BEGIN_EXAMPLE
-＃+BEGIN_SRC
-＃+END_SRC
+#+BEGIN_SRC
+#+END_SRC
 #+END_EXAMPLE
+
+#+BEGIN_QUOTE
+ #+BEGIN_SRC
+ #+END_SRC
+#+END_QUOTE
